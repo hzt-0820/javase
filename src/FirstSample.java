@@ -5,5 +5,6 @@ public class FirstSample {
         System.out.println("Hello3");
         System.out.println("Hello4");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
